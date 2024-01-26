@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaVorith
+- 👋 Hi, I’m Vorith
 - 👀 I’m interested in web development and app creation.
 - 🌱 I’m currently learning everything and anything.
 - 💞️ I’m looking to collaborate on mentoships/internships, though would love to collaborate on projects :)
